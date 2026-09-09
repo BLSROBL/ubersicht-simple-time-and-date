@@ -1,2 +1,3 @@
-# ubersicht-simple-time-and-date
-A simple time and date widget for übersicht
+# Übersicht Simple Time and Date
+
+Display the current time and date directly on your desktop with a simple, unobtrusive design that fits naturally into your macOS setup.
